@@ -8,3 +8,5 @@
 
 
 ### Voir le résultat : [cliquez-ici](https://ho-be-one.github.io/newsletter/)
+![](img/picsTwo.png)
+![](img/picsOne.png)
